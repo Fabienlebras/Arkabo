@@ -207,6 +207,6 @@ if(random===100000){
 
 
 
-client.login("MTAwOTkwNjQ5NzMxODMwOTk3OA.G82_gK.73fqpXuANDkEDzDwDej_OXbmvBwrdJKK7w2Zi4");
+client.login("process.env.token");
 
 
